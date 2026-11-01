@@ -1,1 +1,11 @@
-[]
+[ {
+  "startedAt" : "2026-11-01T22:56:12.541365256Z",
+  "finishedAt" : "2026-11-01T22:56:13.818198371Z",
+  "target" : "test",
+  "discovered" : 30,
+  "published" : 0,
+  "drafts" : 0,
+  "failed" : 0,
+  "pending" : 30,
+  "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
+} ]
