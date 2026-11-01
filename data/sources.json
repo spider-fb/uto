@@ -1,8 +1,8 @@
 [
   {
-    "id": "example",
-    "name": "مصدر تجريبي (غيّر الرابط ثم فعّله)",
-    "url": "https://example.com/feed.xml",
-    "enabled": false
+    "id": "8ghrb",
+    "name": "موقع 8ghrb",
+    "url": "https://8ghrb.com/feed/",
+    "enabled": true
   }
 ]
