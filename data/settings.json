@@ -1,0 +1,12 @@
+{
+  "target": "test",
+  "targets": {
+    "test": "https://pdf-tatwi.blogspot.com",
+    "production": "https://books.tatwi.com"
+  },
+  "blogId": "",
+  "publishMode": "draft",
+  "maxPostsPerRun": 5,
+  "maxHistory": 100,
+  "labels": ["كتب"]
+}
