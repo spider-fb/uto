@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لوحة نشر الكتب</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div>
+    <h1>لوحة نشر الكتب</h1>
+    <p id="meta">جارٍ التحميل…</p>
+  </div>
+  <nav id="actions"></nav>
+</header>
+<main>
+  <section class="tally" id="tally"></section>
+  <section>
+    <h2>مصادر RSS</h2>
+    <div class="scroll"><table id="sources"></table></div>
+  </section>
+  <section>
+    <div class="row">
+      <h2>الكتب</h2>
+      <label>الحالة
+        <select id="filter">
+          <option value="">الكل</option>
+          <option value="published">منشور</option>
+          <option value="draft">مسودة</option>
+          <option value="pending">قيد الانتظار</option>
+          <option value="failed">فشل</option>
+        </select>
+      </label>
+    </div>
+    <ul id="books" class="ledger"></ul>
+  </section>
+  <section>
+    <h2>سجل التنفيذ</h2>
+    <div class="scroll"><table id="history"></table></div>
+  </section>
+  <section>
+    <h2>الأخطاء</h2>
+    <ul id="errors" class="ledger"></ul>
+  </section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
