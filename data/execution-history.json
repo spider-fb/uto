@@ -48,4 +48,14 @@
   "failed" : 0,
   "pending" : 30,
   "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
+}, {
+  "startedAt" : "2026-11-03T02:54:01.901480579Z",
+  "finishedAt" : "2026-11-03T02:54:03.370519516Z",
+  "target" : "test",
+  "discovered" : 0,
+  "published" : 0,
+  "drafts" : 0,
+  "failed" : 0,
+  "pending" : 30,
+  "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
 } ]
