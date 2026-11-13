@@ -1,6 +1,6 @@
 {
-  "generatedAt" : "2026-11-12T18:52:13.135617662Z",
-  "lastSync" : "2026-11-12T18:52:13.135617662Z",
+  "generatedAt" : "2026-11-13T00:15:34.152661348Z",
+  "lastSync" : "2026-11-13T00:15:34.152661348Z",
   "target" : "test",
   "targetUrl" : "https://pdf-tatwi.blogspot.com",
   "publishMode" : "draft",
@@ -15,7 +15,7 @@
     "id" : "8ghrb",
     "name" : "موقع 8ghrb",
     "url" : "https://8ghrb.com/feed/",
-    "checkedAt" : "2026-11-12T18:52:11.268129894Z",
+    "checkedAt" : "2026-11-13T00:15:32.546100970Z",
     "enabled" : true,
     "ok" : true,
     "items" : 30
@@ -412,6 +412,16 @@
     "attempts" : 0
   } ],
   "history" : [ {
+    "startedAt" : "2026-11-13T00:15:31.672324591Z",
+    "finishedAt" : "2026-11-13T00:15:34.152661348Z",
+    "target" : "test",
+    "discovered" : 0,
+    "published" : 0,
+    "drafts" : 0,
+    "failed" : 0,
+    "pending" : 39,
+    "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
+  }, {
     "startedAt" : "2026-11-12T18:52:08.940263208Z",
     "finishedAt" : "2026-11-12T18:52:13.135617662Z",
     "target" : "test",
@@ -694,16 +704,6 @@
   }, {
     "startedAt" : "2026-11-04T21:50:14.832250570Z",
     "finishedAt" : "2026-11-04T21:50:17.043579379Z",
-    "target" : "test",
-    "discovered" : 0,
-    "published" : 0,
-    "drafts" : 0,
-    "failed" : 0,
-    "pending" : 30,
-    "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
-  }, {
-    "startedAt" : "2026-11-04T15:22:43.127046600Z",
-    "finishedAt" : "2026-11-04T15:22:44.245830419Z",
     "target" : "test",
     "discovered" : 0,
     "published" : 0,
