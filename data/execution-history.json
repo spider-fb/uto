@@ -708,4 +708,14 @@
   "failed" : 0,
   "pending" : 42,
   "errors" : [ "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
+}, {
+  "startedAt" : "2026-11-22T06:37:32.045725341Z",
+  "finishedAt" : "2026-11-22T06:38:02.946410605Z",
+  "target" : "test",
+  "discovered" : 0,
+  "published" : 0,
+  "drafts" : 0,
+  "failed" : 0,
+  "pending" : 42,
+  "errors" : [ "المصدر موقع 8ghrb: request timed out", "أسرار Google غير مضبوطة: تم تخطي النشر وبقيت الكتب قيد الانتظار" ]
 } ]
